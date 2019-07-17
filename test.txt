@@ -1,5 +1,2 @@
-<<<<<<< Updated upstream
 wjr ai hyw
-=======
-wjr xihuan hyw;
->>>>>>> Stashed changes
+看看会被会被加入到远程仓库
